@@ -59,7 +59,7 @@ Push to the branch (git push origin feature-branch).
 Open a pull request.
 
 License:
-This project is licensed under MIT [License](LICENSE).
+This project is licensed under MIT [License](https://github.com/Nuu-maan/Discord-ToS-bypass?tab=MIT-1-ov-file).
 
 ## Disclaimer
 This script is for educational purposes only. Use responsibly and comply with Discord's Terms of Service.
