@@ -1,0 +1,172 @@
+[10:00:41] [▷] Resources loaded ▸ tokens=11 proxies=1 threads=50
+[10:00:47] [◈] Initializing operations ▸ target_guild=1247844239430254594 token_count=11
+[10:00:47] [◎] Proxy configured ▸ endpoint=http://ewqm9iv01onzm58:FpRkCNYy9rPPxlZMSDja@resi.xyliase.com:1111
+[10:00:47] [◎] Proxy configured ▸ endpoint=http://ewqm9iv01onzm58:FpRkCNYy9rPPxlZMSDja@resi.xyliase.com:1111
+[10:00:47] [◎] Proxy configured ▸ endpoint=http://ewqm9iv01onzm58:FpRkCNYy9rPPxlZMSDja@resi.xyliase.com:1111
+[10:00:47] [◎] Proxy configured ▸ endpoint=http://ewqm9iv01onzm58:FpRkCNYy9rPPxlZMSDja@resi.xyliase.com:1111
+[10:00:47] [◎] Proxy configured ▸ endpoint=http://ewqm9iv01onzm58:FpRkCNYy9rPPxlZMSDja@resi.xyliase.com:1111
+[10:00:47] [◎] Proxy configured ▸ endpoint=http://ewqm9iv01onzm58:FpRkCNYy9rPPxlZMSDja@resi.xyliase.com:1111
+[10:00:47] [◎] Proxy configured ▸ endpoint=http://ewqm9iv01onzm58:FpRkCNYy9rPPxlZMSDja@resi.xyliase.com:1111
+[10:00:47] [◎] Proxy configured ▸ endpoint=http://ewqm9iv01onzm58:FpRkCNYy9rPPxlZMSDja@resi.xyliase.com:1111
+[10:00:47] [◎] Proxy configured ▸ endpoint=http://ewqm9iv01onzm58:FpRkCNYy9rPPxlZMSDja@resi.xyliase.com:1111
+[10:00:47] [◎] Proxy configured ▸ endpoint=http://ewqm9iv01onzm58:FpRkCNYy9rPPxlZMSDja@resi.xyliase.com:1111
+[10:00:47] [◎] Proxy configured ▸ endpoint=http://ewqm9iv01onzm58:FpRkCNYy9rPPxlZMSDja@resi.xyliase.com:1111
+[10:01:05] [▷] Resources loaded ▸ tokens=11 proxies=41 threads=50
+[10:01:07] [◈] Initializing operations ▸ target_guild=1247844239430254594 token_count=11
+[10:01:07] [◎] Proxy configured ▸ endpoint=http://owtuppsi:xio3tfkml6id@173.0.9.209:5792
+[10:01:07] [◎] Proxy configured ▸ endpoint=http://lxtyqioe:0tthveqr8jdp@207.244.217.165:6712
+[10:01:07] [◎] Proxy configured ▸ endpoint=http://lxtyqioe:0tthveqr8jdp@161.123.152.115:6360
+[10:01:07] [◎] Proxy configured ▸ endpoint=http://rgzvzdib:xe15dgq32yl0@161.123.152.115:6360
+[10:01:07] [◎] Proxy configured ▸ endpoint=http://rgzvzdib:xe15dgq32yl0@198.23.239.134:6540
+[10:01:07] [◎] Proxy configured ▸ endpoint=http://emebykzu:nhlmqovudjs2@154.36.110.199:6853
+[10:01:07] [◎] Proxy configured ▸ endpoint=http://rgzvzdib:xe15dgq32yl0@154.36.110.199:6853
+[10:01:07] [◎] Proxy configured ▸ endpoint=http://lxtyqioe:0tthveqr8jdp@64.137.42.112:5157
+[10:01:07] [◎] Proxy configured ▸ endpoint=http://rgzvzdib:xe15dgq32yl0@154.36.110.199:6853
+[10:01:07] [◎] Proxy configured ▸ endpoint=http://owtuppsi:xio3tfkml6id@173.0.9.209:5792
+[10:01:07] [◎] Proxy configured ▸ endpoint=http://owtuppsi:xio3tfkml6id@173.0.9.70:5653
+[10:02:47] [▷] Resources loaded ▸ tokens=11 proxies=41 threads=50
+[10:02:49] [◈] Initializing operations ▸ target_guild=1247844239430254594 token_count=11
+[10:02:50] [⨯] Processing error ▸ identifier=glctWxak error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:02:50] [⨯] Processing error ▸ identifier=RZvc5p8g error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:02:50] [⨯] Processing error ▸ identifier=IUw8d4n4 error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:02:50] [⨯] Processing error ▸ identifier=eyydJs6M error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:02:50] [⨯] Processing error ▸ identifier=b1jLsJtg error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:02:50] [⨯] Processing error ▸ identifier=JusUcUtQ error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:02:50] [⨯] Processing error ▸ identifier=k77PFhG0 error=API Error [403]: {"message": "You need to verify your account in order to perform this action.", "code": 40002}
+[10:02:50] [⨯] Processing error ▸ identifier=YjfZDdEU error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:02:50] [⨯] Processing error ▸ identifier=6rs6zt5Q error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:02:50] [⨯] Processing error ▸ identifier=-V_xnxhk error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:02:50] [⨯] Processing error ▸ identifier=S7i-YoJ0 error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:03:18] [▷] Resources loaded ▸ tokens=11 proxies=41 threads=50
+[10:03:20] [◈] Initializing operations ▸ target_guild=1247844239430254594 token_count=11
+[10:03:21] [⨯] Processing error ▸ identifier=RZvc5p8g error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:03:22] [⨯] Processing error ▸ identifier=IUw8d4n4 error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:03:22] [⨯] Processing error ▸ identifier=-V_xnxhk error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:03:22] [⨯] Processing error ▸ identifier=YjfZDdEU error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:03:22] [⨯] Processing error ▸ identifier=6rs6zt5Q error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:03:22] [⨯] Processing error ▸ identifier=b1jLsJtg error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:03:22] [⨯] Processing error ▸ identifier=k77PFhG0 error=API Error [403]: {"message": "You need to verify your account in order to perform this action.", "code": 40002}
+[10:03:22] [⨯] Processing error ▸ identifier=glctWxak error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:03:22] [⨯] Processing error ▸ identifier=S7i-YoJ0 error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:03:22] [⨯] Processing error ▸ identifier=eyydJs6M error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:03:22] [⨯] Processing error ▸ identifier=JusUcUtQ error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:07:59] [▷] Resources loaded ▸ tokens=11 proxies=41 threads=50
+[10:08:02] [◈] Initializing operations ▸ target_guild=1247844239430254594 token_count=11
+[10:08:04] [⨯] Processing error ▸ identifier=YjfZDdEU error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:04] [⨯] Processing error ▸ identifier=eyydJs6M error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:04] [⨯] Processing error ▸ identifier=JusUcUtQ error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:04] [⨯] Processing error ▸ identifier=k77PFhG0 error=API Error [403]: {"message": "You need to verify your account in order to perform this action.", "code": 40002}
+[10:08:04] [⨯] Processing error ▸ identifier=-V_xnxhk error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:04] [⨯] Processing error ▸ identifier=IUw8d4n4 error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:05] [⨯] Processing error ▸ identifier=S7i-YoJ0 error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:05] [⨯] Processing error ▸ identifier=glctWxak error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:05] [⨯] Processing error ▸ identifier=b1jLsJtg error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:05] [⨯] Processing error ▸ identifier=6rs6zt5Q error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:05] [⨯] Processing error ▸ identifier=RZvc5p8g error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:29] [▷] Resources loaded ▸ tokens=11 proxies=41 threads=50
+[10:08:34] [◈] Initializing operations ▸ target_guild=1247844239430254594 token_count=11
+[10:08:35] [⨯] Processing error ▸ identifier=RZvc5p8g error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:35] [⨯] Processing error ▸ identifier=JusUcUtQ error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:35] [⨯] Processing error ▸ identifier=IUw8d4n4 error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:35] [⨯] Processing error ▸ identifier=-V_xnxhk error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:35] [⨯] Processing error ▸ identifier=glctWxak error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:35] [⨯] Processing error ▸ identifier=b1jLsJtg error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:36] [⨯] Processing error ▸ identifier=k77PFhG0 error=API Error [403]: {"message": "You need to verify your account in order to perform this action.", "code": 40002}
+[10:08:36] [⨯] Processing error ▸ identifier=S7i-YoJ0 error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:36] [⨯] Processing error ▸ identifier=6rs6zt5Q error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:36] [⨯] Processing error ▸ identifier=YjfZDdEU error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:36] [⨯] Processing error ▸ identifier=eyydJs6M error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:08:36] [△] Critical failure ▸ error=NovaLogger.config() got an unexpected keyword argument 'total'
+[10:13:52] [▷] Resources loaded ▸ tokens=11 proxies=41 threads=50
+[10:13:53] [◈] Initializing operations ▸ target_guild=679875946597056683 token_count=11
+[10:13:54] [⨯] Processing error ▸ identifier=k77PFhG0 error=API Error [403]: {"message": "You need to verify your account in order to perform this action.", "code": 40002}
+[10:13:54] [⨯] Processing error ▸ identifier=glctWxak error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:13:55] [⨯] Processing error ▸ identifier=YjfZDdEU error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:13:55] [⨯] Processing error ▸ identifier=JusUcUtQ error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:13:55] [⨯] Processing error ▸ identifier=-V_xnxhk error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:13:55] [⨯] Processing error ▸ identifier=IUw8d4n4 error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:13:55] [⨯] Processing error ▸ identifier=b1jLsJtg error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:13:55] [⨯] Processing error ▸ identifier=6rs6zt5Q error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:13:55] [⨯] Processing error ▸ identifier=eyydJs6M error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:13:55] [⨯] Processing error ▸ identifier=RZvc5p8g error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:13:55] [⨯] Processing error ▸ identifier=S7i-YoJ0 error=API Error [403]: {"message": "Unknown Guild", "code": 10004}
+[10:13:55] [△] Critical failure ▸ error=NovaLogger.config() got an unexpected keyword argument 'total'
+[10:20:02] [▷] Resources loaded ▸ tokens=11 proxies=41 threads=50
+[10:20:06] [◈] Initializing operations ▸ target_guild=679875946597056683 token_count=11
+[10:20:07] [⨯] Invalid server ID ▸ identifier=glctWxak
+[10:20:07] [⨯] Invalid server ID ▸ identifier=YjfZDdEU
+[10:20:07] [⨯] Invalid server ID ▸ identifier=-V_xnxhk
+[10:20:07] [⨯] Account needs phone verification ▸ identifier=k77PFhG0
+[10:20:07] [⨯] Invalid server ID ▸ identifier=IUw8d4n4
+[10:20:08] [⨯] Invalid server ID ▸ identifier=eyydJs6M
+[10:20:08] [⨯] Invalid server ID ▸ identifier=S7i-YoJ0
+[10:20:08] [⨯] Invalid server ID ▸ identifier=JusUcUtQ
+[10:20:08] [⨯] Invalid server ID ▸ identifier=6rs6zt5Q
+[10:20:08] [⨯] Invalid server ID ▸ identifier=RZvc5p8g
+[10:20:08] [⨯] Invalid server ID ▸ identifier=b1jLsJtg
+[10:20:08] [▷] 
+Operation Summary ▸ total=11 successes=0 failures=11
+[10:20:13] [▷] Resources loaded ▸ tokens=11 proxies=41 threads=50
+[10:20:17] [⨯] Invalid Guild ID - must be 18-digit number
+[10:20:35] [▷] Resources loaded ▸ tokens=11 proxies=41 threads=50
+[10:20:36] [⨯] Invalid Guild ID - must be 18-digit number
+[10:21:14] [▷] Resources loaded ▸ tokens=11 proxies=41 threads=50
+[10:21:19] [◈] Initializing operations ▸ target_guild=1247844239430254594 token_count=11
+[10:21:21] [⨯] Invalid server ID ▸ identifier=JusUcUtQ
+[10:21:21] [⨯] Invalid server ID ▸ identifier=YjfZDdEU
+[10:21:21] [⨯] Invalid server ID ▸ identifier=b1jLsJtg
+[10:21:21] [⨯] Invalid server ID ▸ identifier=glctWxak
+[10:21:21] [⨯] Account needs phone verification ▸ identifier=k77PFhG0
+[10:21:21] [⨯] Invalid server ID ▸ identifier=6rs6zt5Q
+[10:21:22] [⨯] Invalid server ID ▸ identifier=RZvc5p8g
+[10:21:22] [⨯] Invalid server ID ▸ identifier=S7i-YoJ0
+[10:21:22] [⨯] Invalid server ID ▸ identifier=IUw8d4n4
+[10:21:22] [⨯] Invalid server ID ▸ identifier=-V_xnxhk
+[10:21:24] [⨯] Invalid server ID ▸ identifier=eyydJs6M
+[10:21:24] [▷] 
+Operation Summary ▸ total=11 successes=0 failures=11
+[10:23:04] [▷] Resources loaded ▸ tokens=11 proxies=41 threads=50
+[10:23:20] [◈] Initializing operations ▸ target_guild=1058020082283970630 token_count=11
+[10:23:22] [⨯] Account needs phone verification ▸ identifier=k77PFhG0
+[10:23:22] [⨯] Processing error ▸ identifier=glctWxak error=Acceptance rejected [403]: {"message": "Missing Access", "code": 50001}
+[10:23:22] [⨯] Processing error ▸ identifier=RZvc5p8g error=type object 'NovaLogger' has no attribute 'success'
+[10:23:22] [⨯] Processing error ▸ identifier=b1jLsJtg error=type object 'NovaLogger' has no attribute 'success'
+[10:23:22] [⨯] Processing error ▸ identifier=eyydJs6M error=type object 'NovaLogger' has no attribute 'success'
+[10:23:22] [⨯] Processing error ▸ identifier=YjfZDdEU error=Acceptance rejected [403]: {"message": "Missing Access", "code": 50001}
+[10:23:22] [⨯] Processing error ▸ identifier=-V_xnxhk error=type object 'NovaLogger' has no attribute 'success'
+[10:23:22] [⨯] Processing error ▸ identifier=IUw8d4n4 error=type object 'NovaLogger' has no attribute 'success'
+[10:23:23] [⨯] Processing error ▸ identifier=6rs6zt5Q error=Acceptance rejected [403]: {"message": "Missing Access", "code": 50001}
+[10:23:23] [⨯] Processing error ▸ identifier=JusUcUtQ error=type object 'NovaLogger' has no attribute 'success'
+[10:23:23] [⨯] Processing error ▸ identifier=S7i-YoJ0 error=type object 'NovaLogger' has no attribute 'success'
+[10:23:23] [▷] 
+Operation Summary ▸ total=11 successes=7 failures=11
+[10:26:57] [▷] Resources loaded ▸ tokens=11 proxies=41 threads=50
+[10:27:01] [◈] Initializing operations ▸ target_guild=1058020082283970630 token_count=11
+[10:27:02] [⨯] Account needs phone verification ▸ identifier=k77PFhG0
+[10:27:03] [⨯] Processing error ▸ identifier=eyydJs6M error=Acceptance rejected [410]: {"message": "This user is already a member, join request is already closed", "code": 150009}
+[10:27:03] [⨯] Processing error ▸ identifier=b1jLsJtg error=Acceptance rejected [410]: {"message": "This user is already a member, join request is already closed", "code": 150009}
+[10:27:03] [⨯] Token lacks access to guild ▸ identifier=6rs6zt5Q
+[10:27:03] [⨯] Processing error ▸ identifier=IUw8d4n4 error=Acceptance rejected [410]: {"message": "This user is already a member, join request is already closed", "code": 150009}
+[10:27:03] [⨯] Token lacks access to guild ▸ identifier=glctWxak
+[10:27:03] [⨯] Processing error ▸ identifier=-V_xnxhk error=Acceptance rejected [410]: {"message": "This user is already a member, join request is already closed", "code": 150009}
+[10:27:03] [⨯] Processing error ▸ identifier=RZvc5p8g error=Acceptance rejected [410]: {"message": "This user is already a member, join request is already closed", "code": 150009}
+[10:27:03] [⨯] Processing error ▸ identifier=JusUcUtQ error=Acceptance rejected [410]: {"message": "This user is already a member, join request is already closed", "code": 150009}
+[10:27:03] [⨯] Processing error ▸ identifier=S7i-YoJ0 error=Acceptance rejected [410]: {"message": "This user is already a member, join request is already closed", "code": 150009}
+[10:27:04] [⨯] Token lacks access to guild ▸ identifier=YjfZDdEU
+[10:27:04] [▷] 
+Operation Summary ▸ total=11 successes=0 failures=11
+[10:29:40] [▷] Resources loaded ▸ tokens=11 proxies=41 threads=50
+[10:29:47] [◈] Initializing operations ▸ target_guild=1058020082283970630 token_count=11
+[10:29:49] [⨯] Account needs phone verification ▸ identifier=k77PFhG0
+[10:29:49] [◈] User already a member ▸ identifier=IUw8d4n4
+[10:29:49] [⨯] Token lacks access to guild ▸ identifier=6rs6zt5Q
+[10:29:49] [⨯] Token lacks access to guild ▸ identifier=glctWxak
+[10:29:49] [◈] User already a member ▸ identifier=S7i-YoJ0
+[10:29:49] [◈] User already a member ▸ identifier=-V_xnxhk
+[10:29:49] [◈] User already a member ▸ identifier=b1jLsJtg
+[10:29:49] [⨯] Token lacks access to guild ▸ identifier=YjfZDdEU
+[10:29:49] [◈] User already a member ▸ identifier=eyydJs6M
+[10:29:49] [◈] User already a member ▸ identifier=RZvc5p8g
+[10:29:49] [◈] User already a member ▸ identifier=JusUcUtQ
+[10:29:49] [▷] 
+Operation Summary ▸ total=11 successes=0 failures=11
