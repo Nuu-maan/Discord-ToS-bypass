@@ -39,7 +39,7 @@ Edit `config.json` with your settings:
 ## Usage
 Run the script with:
 ```sh
-python script.py
+python index.py
 ```
 
 ## Notes
